@@ -5,6 +5,8 @@ This project analyzes students' exam performances based on various demographic, 
 
 The dataset contains scores in three subjects: Math, Reading, and Writing, along with attributes like gender, race/ethnicity, parental education, lunch type, and test preparation.
 
+**Python** · **Pandas** · **SQL** · **EDA** · **Statistical test** · **Matplotlib**
+
 ## Project Workflow 
 ## Data Loading and Preprocessing:
 Cleaning and preparing the dataset for analysis.
